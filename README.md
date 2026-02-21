@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Christopher Dean
 
-<!--
-**ChristopherDeanTech/ChristopherDeanTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate
+💻 AI & IT Support Enthusiast
+📍 New York
+🚀 Building automation tools & real-world tech solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Python
+- HTML / CSS
+- Git & GitHub
+- Troubleshooting & IT Support
+- AI Tools & Prompt Engineering
+- Basic Networking Concepts
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Resume Analyzer
+A Python-based tool that scans resumes and provides keyword optimization feedback.
+
+### 🛠 IT Help Desk Ticketing System
+Simulated ticket system built in Python to mimic real-world IT workflows.
+
+### 📊 Personal Finance Tracker
+Web-based budgeting dashboard built using HTML/CSS and JavaScript.
+
+---
+
+## 📫 Let's Connect
+Open to remote part-time and full-time tech opportunities.
